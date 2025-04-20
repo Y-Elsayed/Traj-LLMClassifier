@@ -1,3 +1,6 @@
 .venv
 data/
 .env
+Roberta+Tokenizer_Pre_Training_final.ipynb
+Roberta+Tokenizer_Pre_Training.ipynb
+Traj_Roberta_FineTune.ipynb
